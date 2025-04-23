@@ -1,0 +1,14 @@
+C:\Hoc_Tap\Ky_6\Back-end\Labs\Lab_1\Lab1\Lab\bin\Debug\net9.0\Lab.exe
+C:\Hoc_Tap\Ky_6\Back-end\Labs\Lab_1\Lab1\Lab\bin\Debug\net9.0\Lab.deps.json
+C:\Hoc_Tap\Ky_6\Back-end\Labs\Lab_1\Lab1\Lab\bin\Debug\net9.0\Lab.runtimeconfig.json
+C:\Hoc_Tap\Ky_6\Back-end\Labs\Lab_1\Lab1\Lab\bin\Debug\net9.0\Lab.dll
+C:\Hoc_Tap\Ky_6\Back-end\Labs\Lab_1\Lab1\Lab\bin\Debug\net9.0\Lab.pdb
+C:\Hoc_Tap\Ky_6\Back-end\Labs\Lab_1\Lab1\Lab\obj\Debug\net9.0\Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hoc_Tap\Ky_6\Back-end\Labs\Lab_1\Lab1\Lab\obj\Debug\net9.0\Lab.AssemblyInfoInputs.cache
+C:\Hoc_Tap\Ky_6\Back-end\Labs\Lab_1\Lab1\Lab\obj\Debug\net9.0\Lab.AssemblyInfo.cs
+C:\Hoc_Tap\Ky_6\Back-end\Labs\Lab_1\Lab1\Lab\obj\Debug\net9.0\Lab.csproj.CoreCompileInputs.cache
+C:\Hoc_Tap\Ky_6\Back-end\Labs\Lab_1\Lab1\Lab\obj\Debug\net9.0\Lab.dll
+C:\Hoc_Tap\Ky_6\Back-end\Labs\Lab_1\Lab1\Lab\obj\Debug\net9.0\refint\Lab.dll
+C:\Hoc_Tap\Ky_6\Back-end\Labs\Lab_1\Lab1\Lab\obj\Debug\net9.0\Lab.pdb
+C:\Hoc_Tap\Ky_6\Back-end\Labs\Lab_1\Lab1\Lab\obj\Debug\net9.0\Lab.genruntimeconfig.cache
+C:\Hoc_Tap\Ky_6\Back-end\Labs\Lab_1\Lab1\Lab\obj\Debug\net9.0\ref\Lab.dll
