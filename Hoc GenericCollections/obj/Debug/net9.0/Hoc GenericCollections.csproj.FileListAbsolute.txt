@@ -1,0 +1,14 @@
+D:\Back-End\Tuan2\Hoc GenericCollections\bin\Debug\net9.0\Hoc GenericCollections.exe
+D:\Back-End\Tuan2\Hoc GenericCollections\bin\Debug\net9.0\Hoc GenericCollections.deps.json
+D:\Back-End\Tuan2\Hoc GenericCollections\bin\Debug\net9.0\Hoc GenericCollections.runtimeconfig.json
+D:\Back-End\Tuan2\Hoc GenericCollections\bin\Debug\net9.0\Hoc GenericCollections.dll
+D:\Back-End\Tuan2\Hoc GenericCollections\bin\Debug\net9.0\Hoc GenericCollections.pdb
+D:\Back-End\Tuan2\Hoc GenericCollections\obj\Debug\net9.0\Hoc GenericCollections.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back-End\Tuan2\Hoc GenericCollections\obj\Debug\net9.0\Hoc GenericCollections.AssemblyInfoInputs.cache
+D:\Back-End\Tuan2\Hoc GenericCollections\obj\Debug\net9.0\Hoc GenericCollections.AssemblyInfo.cs
+D:\Back-End\Tuan2\Hoc GenericCollections\obj\Debug\net9.0\Hoc GenericCollections.csproj.CoreCompileInputs.cache
+D:\Back-End\Tuan2\Hoc GenericCollections\obj\Debug\net9.0\Hoc GenericCollections.dll
+D:\Back-End\Tuan2\Hoc GenericCollections\obj\Debug\net9.0\refint\Hoc GenericCollections.dll
+D:\Back-End\Tuan2\Hoc GenericCollections\obj\Debug\net9.0\Hoc GenericCollections.pdb
+D:\Back-End\Tuan2\Hoc GenericCollections\obj\Debug\net9.0\Hoc GenericCollections.genruntimeconfig.cache
+D:\Back-End\Tuan2\Hoc GenericCollections\obj\Debug\net9.0\ref\Hoc GenericCollections.dll

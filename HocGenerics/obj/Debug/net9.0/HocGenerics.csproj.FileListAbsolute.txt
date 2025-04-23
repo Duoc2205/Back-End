@@ -1,0 +1,14 @@
+D:\Back-End\Tuan2\HocGenerics\bin\Debug\net9.0\HocGenerics.exe
+D:\Back-End\Tuan2\HocGenerics\bin\Debug\net9.0\HocGenerics.deps.json
+D:\Back-End\Tuan2\HocGenerics\bin\Debug\net9.0\HocGenerics.runtimeconfig.json
+D:\Back-End\Tuan2\HocGenerics\bin\Debug\net9.0\HocGenerics.dll
+D:\Back-End\Tuan2\HocGenerics\bin\Debug\net9.0\HocGenerics.pdb
+D:\Back-End\Tuan2\HocGenerics\obj\Debug\net9.0\HocGenerics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back-End\Tuan2\HocGenerics\obj\Debug\net9.0\HocGenerics.AssemblyInfoInputs.cache
+D:\Back-End\Tuan2\HocGenerics\obj\Debug\net9.0\HocGenerics.AssemblyInfo.cs
+D:\Back-End\Tuan2\HocGenerics\obj\Debug\net9.0\HocGenerics.csproj.CoreCompileInputs.cache
+D:\Back-End\Tuan2\HocGenerics\obj\Debug\net9.0\HocGenerics.dll
+D:\Back-End\Tuan2\HocGenerics\obj\Debug\net9.0\refint\HocGenerics.dll
+D:\Back-End\Tuan2\HocGenerics\obj\Debug\net9.0\HocGenerics.pdb
+D:\Back-End\Tuan2\HocGenerics\obj\Debug\net9.0\HocGenerics.genruntimeconfig.cache
+D:\Back-End\Tuan2\HocGenerics\obj\Debug\net9.0\ref\HocGenerics.dll

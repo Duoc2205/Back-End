@@ -1,0 +1,14 @@
+D:\Back-End\Tuan2\HocDelegate\bin\Debug\net9.0\HocDelegate.exe
+D:\Back-End\Tuan2\HocDelegate\bin\Debug\net9.0\HocDelegate.deps.json
+D:\Back-End\Tuan2\HocDelegate\bin\Debug\net9.0\HocDelegate.runtimeconfig.json
+D:\Back-End\Tuan2\HocDelegate\bin\Debug\net9.0\HocDelegate.dll
+D:\Back-End\Tuan2\HocDelegate\bin\Debug\net9.0\HocDelegate.pdb
+D:\Back-End\Tuan2\HocDelegate\obj\Debug\net9.0\HocDelegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back-End\Tuan2\HocDelegate\obj\Debug\net9.0\HocDelegate.AssemblyInfoInputs.cache
+D:\Back-End\Tuan2\HocDelegate\obj\Debug\net9.0\HocDelegate.AssemblyInfo.cs
+D:\Back-End\Tuan2\HocDelegate\obj\Debug\net9.0\HocDelegate.csproj.CoreCompileInputs.cache
+D:\Back-End\Tuan2\HocDelegate\obj\Debug\net9.0\HocDelegate.dll
+D:\Back-End\Tuan2\HocDelegate\obj\Debug\net9.0\refint\HocDelegate.dll
+D:\Back-End\Tuan2\HocDelegate\obj\Debug\net9.0\HocDelegate.pdb
+D:\Back-End\Tuan2\HocDelegate\obj\Debug\net9.0\HocDelegate.genruntimeconfig.cache
+D:\Back-End\Tuan2\HocDelegate\obj\Debug\net9.0\ref\HocDelegate.dll
